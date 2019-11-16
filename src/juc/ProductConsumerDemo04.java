@@ -13,7 +13,6 @@ class AirCondition {
         }
         number++;
         System.out.println(Thread.currentThread().getName() + "\t" + number);
-        System.out.println(Thread.currentThread().getName() + "\t" + number);
         this.notifyAll();
     }
     public synchronized void decre() throws Exception {
