@@ -1,1 +1,1 @@
-# juc-demo
+# juc-jvm-demo
