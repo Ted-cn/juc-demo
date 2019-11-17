@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc69b23-ca3d-4d93-b827-ede5a30fb1db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/juc/MyThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvm/MyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/juc/ProductConsumerDemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/juc/ProductConsumerDemo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-jvm-demo.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,44 +18,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="672" column="16" selection-start-line="672" selection-start-column="16" selection-end-line="672" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jvm/MyObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/juc/MyThreadPoolDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="34" column="53" lean-forward="true" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="1755" column="14" selection-start-line="1755" selection-start-column="14" selection-end-line="1755" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,8 +52,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="323" />
-    <option name="y" value="568" />
+    <option name="x" value="426" />
+    <option name="y" value="225" />
     <option name="width" value="1214" />
     <option name="height" value="924" />
   </component>
@@ -105,28 +66,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="juc-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -134,6 +74,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573922952889" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -151,7 +95,7 @@
   <component name="RunManager" selected="Application.MyObject">
     <configuration name="ConditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="juc.ConditionDemo" />
-      <module name="jucDemo" />
+      <module name="juc-jvm-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="juc.*" />
@@ -164,7 +108,7 @@
     </configuration>
     <configuration name="Lock8Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="juc.Lock8Demo05" />
-      <module name="jucDemo" />
+      <module name="juc-jvm-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="juc.*" />
@@ -177,7 +121,7 @@
     </configuration>
     <configuration name="MyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvm.MyObject" />
-      <module name="jucDemo" />
+      <module name="juc-jvm-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="jvm.*" />
@@ -190,7 +134,7 @@
     </configuration>
     <configuration name="MyThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="juc.MyThreadPoolDemo" />
-      <module name="jucDemo" />
+      <module name="juc-jvm-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="juc.*" />
@@ -203,7 +147,7 @@
     </configuration>
     <configuration name="ProductConsumerDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="juc.ProductConsumerDemo04" />
-      <module name="jucDemo" />
+      <module name="juc-jvm-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="juc.*" />
@@ -250,16 +194,18 @@
       <workItem from="1573907632629" duration="1710000" />
       <workItem from="1573911383382" duration="2192000" />
       <workItem from="1573914115742" duration="6224000" />
+      <workItem from="1573958877105" duration="98000" />
+      <workItem from="1573958997216" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8141000" />
+    <option name="totallyTimeSpent" value="8276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3754386" weight="0.17590618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3754386" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" sideWeight="0.6245614" side_tool="true" weight="0.15671642" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -385,31 +331,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Class.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="672" column="16" selection-start-line="672" selection-start-column="16" selection-end-line="672" selection-end-column="16" />
+        <state relative-caret-position="719">
+          <caret line="1755" column="14" selection-start-line="1755" selection-start-column="14" selection-end-line="1755" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/juc/MyThreadPoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="34" column="53" lean-forward="true" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jvm/MyObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="378">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="1755" column="14" selection-start-line="1755" selection-start-column="14" selection-end-line="1755" selection-end-column="14" />
+        <state relative-caret-position="197">
+          <caret line="672" column="16" selection-start-line="672" selection-start-column="16" selection-end-line="672" selection-end-column="16" />
         </state>
       </provider>
     </entry>
