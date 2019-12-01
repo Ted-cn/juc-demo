@@ -4,6 +4,10 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * 1. 线程 操作 资源类
+ * 2. 判断 干活 通知
+ */
 class AirCondition {
     int number = 0;
 
